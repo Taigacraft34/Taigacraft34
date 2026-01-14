@@ -1,4 +1,4 @@
-![](https://skillicons.dev/icons?i=java,gradle,js,php,lua,html,css,py&theme=dark)
+![](https://skillicons.dev/icons?i=java,gradle,maven,js,php,lua,html,css,py&theme=dark)
 
 ![](https://skillicons.dev/icons?i=nodejs,discordjs,regex,bash,npm,pnpm,bots&theme=dark)
 
