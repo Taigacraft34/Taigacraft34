@@ -1,6 +1,6 @@
 ![](https://skillicons.dev/icons?i=java,gradle,maven,js,php,lua,html,css,py&theme=dark)
 
-![](https://skillicons.dev/icons?i=nodejs,discordjs,regex,bash,npm,pnpm,bots&theme=dark)
+![](https://skillicons.dev/icons?i=nodejs,discordjs,regex,npm,pnpm,bots&theme=dark)
 
 ![](https://skillicons.dev/icons?i=vscode,eclipse,idea,sublime,arduino,raspberrypi&theme=dark)
 
